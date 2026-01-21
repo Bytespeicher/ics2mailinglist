@@ -1,5 +1,11 @@
 # ics2mailinglist
 
+**CAUTION: We have moved all of our git presence to [codeberg](https://codeberg.org/technikkultur-erfurt). This repo is an archive.**
+
+If you want to maintain this code, feel free to either fork this repository or migrate it to the group on [codeberg](https://codeberg.org/technikkultur-erfurt).
+
+---
+
 This script will parse a calendar ICS(e.g. from Google Calendar) and send the 
 parsed events to a mail address. It is currently set up to take the events of 
 the next week. 
